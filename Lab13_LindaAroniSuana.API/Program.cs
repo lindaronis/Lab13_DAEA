@@ -7,8 +7,12 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// 👇 Esto asegura que Render detecte correctamente el puerto
 var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
-
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(int.Parse(port));
+});
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -22,7 +26,6 @@ builder.Services.AddDbContext<Lab13DbContext>(options =>
         ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DefaultConnection"))
     ));
 
-
 var app = builder.Build();
 
 app.UseSwagger();
@@ -31,5 +34,6 @@ app.UseSwaggerUI();
 app.UseHttpsRedirection();
 
 app.MapControllers();
-app.Run();
 
+// 👇 Ejecutar app
+app.Run();

@@ -18,4 +18,4 @@ COPY --from=build /app/out .
 EXPOSE 80
 
 # Comando para iniciar la app
-ENTRYPOINT ["dotnet", "Lab13_DAEA.dll"]
+ENTRYPOINT ["dotnet", "Lab13_LindaAroniSuana.dll"]

@@ -1,0 +1,15 @@
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\bin\Debug\net8.0\Lab13_LindaAroniSuana.Application.deps.json
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\bin\Debug\net8.0\Lab13_LindaAroniSuana.Application.dll
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\bin\Debug\net8.0\Lab13_LindaAroniSuana.Application.pdb
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\bin\Debug\net8.0\Lab13_LindaAroniSuana.Domain.dll
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\bin\Debug\net8.0\Lab13_LindaAroniSuana.Domain.pdb
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\obj\Debug\net8.0\Lab13_LindaAroniSuana.Application.csproj.AssemblyReference.cache
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\obj\Debug\net8.0\Lab13_LindaAroniSuana.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\obj\Debug\net8.0\Lab13_LindaAroniSuana.Application.AssemblyInfoInputs.cache
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\obj\Debug\net8.0\Lab13_LindaAroniSuana.Application.AssemblyInfo.cs
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\obj\Debug\net8.0\Lab13_LindaAroniSuana.Application.csproj.CoreCompileInputs.cache
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\obj\Debug\net8.0\Lab13_Li.0D4FD1E3.Up2Date
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\obj\Debug\net8.0\Lab13_LindaAroniSuana.Application.dll
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\obj\Debug\net8.0\refint\Lab13_LindaAroniSuana.Application.dll
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\obj\Debug\net8.0\Lab13_LindaAroniSuana.Application.pdb
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Application\obj\Debug\net8.0\ref\Lab13_LindaAroniSuana.Application.dll

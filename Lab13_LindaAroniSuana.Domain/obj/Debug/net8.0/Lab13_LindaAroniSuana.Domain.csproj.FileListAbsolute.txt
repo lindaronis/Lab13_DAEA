@@ -1,0 +1,11 @@
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\obj\Debug\net8.0\Lab13_LindaAroniSuana.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\obj\Debug\net8.0\Lab13_LindaAroniSuana.Domain.AssemblyInfoInputs.cache
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\obj\Debug\net8.0\Lab13_LindaAroniSuana.Domain.AssemblyInfo.cs
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\obj\Debug\net8.0\Lab13_LindaAroniSuana.Domain.csproj.CoreCompileInputs.cache
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\bin\Debug\net8.0\Lab13_LindaAroniSuana.Domain.deps.json
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\bin\Debug\net8.0\Lab13_LindaAroniSuana.Domain.dll
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\bin\Debug\net8.0\Lab13_LindaAroniSuana.Domain.pdb
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\obj\Debug\net8.0\Lab13_LindaAroniSuana.Domain.dll
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\obj\Debug\net8.0\refint\Lab13_LindaAroniSuana.Domain.dll
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\obj\Debug\net8.0\Lab13_LindaAroniSuana.Domain.pdb
+D:\2025-A\EMPRES-AVANZA\Lab13_LindaAroniSuana\Lab13_LindaAroniSuana.Domain\obj\Debug\net8.0\ref\Lab13_LindaAroniSuana.Domain.dll

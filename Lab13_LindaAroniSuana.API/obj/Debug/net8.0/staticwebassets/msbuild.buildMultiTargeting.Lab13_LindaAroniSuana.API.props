@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lab13_LindaAroniSuana.API.props" />
+</Project>
